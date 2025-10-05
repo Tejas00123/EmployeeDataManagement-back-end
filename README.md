@@ -1,10 +1,10 @@
 Setup
 ======
--I used STS IDE
--I developed using build tool Maven
--Tomcat 10.1 (port : 8383) url: http://localhost:8383
--Java version 21
--I used Oracle-sql database.
+IDE : STS IDE
+Build tool : Maven
+Server : Tomcat 10.1 (port : 8383) url: http://localhost:8383
+Java version : Java 21
+Database : Oracle-sql database.
 
 stater used : Spring Web, Spring Data Jpa, Oracle Driver, spring devtools, Lombok and etc.
 -----------
