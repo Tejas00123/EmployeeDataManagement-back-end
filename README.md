@@ -1,13 +1,28 @@
 Setup
 ======
-IDE : STS IDE
-Build tool : Maven
-Server : Tomcat 10.1 (port : 8383) url: http://localhost:8383
-Java version : Java 21
-Database : Oracle-sql database.
+| Configuration    | Details                                        |
+| ---------------- | ---------------------------------------------- |
+| **IDE**          | Spring Tool Suite (STS)                        |
+| **Build Tool**   | Maven                                          |
+| **Server**       | Tomcat 10.1 (Port: `8383`)                     |
+| **Java Version** | Java 21                                        |
+| **Database**     | Oracle SQL                                     |
+| **URL**          | [http://localhost:8383](http://localhost:8383) |
 
-stater used : Spring Web, Spring Data Jpa, Oracle Driver, spring devtools, Lombok and etc.
------------
+
+🧩 Dependencies / Starters Used
+
+Spring Web
+
+Spring Data JPA
+
+Oracle Driver
+
+Lombok
+
+Spring Boot DevTools
+
+(and other common dependencies)
 
 Api end-points urls
 ==================
